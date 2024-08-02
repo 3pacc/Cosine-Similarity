@@ -4,13 +4,14 @@ This program measures the similarity between two sentences using cosine similari
 
 
 ![cosine similarity formula](img/cosine-similarity-formula.png)
-
+> -----------------
 > Cosine similarity is a measure of similarity that focuses on the angle between vectors. It produces a value ranging from -1 to 1.
 
 A cosine similarity of 1 indicates that the vectors are perfectly aligned, signifying identical directions.
 A cosine similarity of 0 suggests that the vectors are orthogonal (perpendicular) to each other, implying no similarity.
 A cosine similarity of -1 means that the vectors are exactly opposite in direction.
 ![cosine similarity cases](img/cosine-similarity-cases.png)
+> -----------------------------------
 ![cosine similarity cases](img/cosine-similarity-usecases.png)
 
 ## Requirements
