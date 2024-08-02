@@ -1,12 +1,9 @@
 # Cosine-Similarity
 
-# Cosine Similarity Program
-
 This program measures the similarity between two sentences using cosine similarity. Cosine similarity is a measure of similarity between two non-zero vectors of an inner product space that measures the cosine of the angle between them.
 
-## Formula
 
-![alt text](img/img.png)
+![alt text](img/cosine-similarity-formula.png)
 
 where \( A \) and \( B \) are vectors.
 
