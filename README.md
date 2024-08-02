@@ -15,11 +15,11 @@ A cosine similarity of -1 means that the vectors are exactly opposite in directi
 
 Cosine similarity and the NLTK (Natural Language Toolkit) module are used in this program. To execute this program, the NLTK module must be installed on your system. Follow the steps below to install the NLTK module:
 
-1. Open terminal (Linux).
-2. Run the command: `sudo pip3 install nltk`
-3. Open Python3 interpreter: `python3`
+1. Open terminal 
+2. Run the command: `pip install nltk`
+3. Open Python3 interpreter: `python`
 4. Import NLTK: `import nltk`
-5. Download all NLTK data: `nltk.download('all')`
+5. Download all NLTK data: `nltk.download('punkt')` and `nltk.download('stopwords')`
 
 ## Functions Used
 
