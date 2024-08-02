@@ -9,7 +9,7 @@ This program measures the similarity between two sentences using cosine similari
 
 A cosine similarity of 1 indicates that the vectors are perfectly aligned, signifying identical directions.
 A cosine similarity of 0 suggests that the vectors are orthogonal (perpendicular) to each other, implying no similarity.
-A cosine similarity of -1 means that the vectors are exactly opposite in direction
+A cosine similarity of -1 means that the vectors are exactly opposite in direction.
 
 ## Requirements
 
